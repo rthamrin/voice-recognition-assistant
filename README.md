@@ -1,6 +1,6 @@
 # voice-recognition-assistant
  I put three codes here.
- - analyze signal to analyze the signal waves that we produce from our voice
+ - analyze signal to analyze the waves that we produce from our voice
  - I put code for real-time sound waves
  - voice assistant
 
